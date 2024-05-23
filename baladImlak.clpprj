@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\baladImlak\baladImlak.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost:8080/baladimlak/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost:8080/baladimlak/login.php]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\baladImlak\jquery-1.12.4.js">
+   <todo pos="8;809" name="TODO: identify versions"/>
+   <todo pos="7;823" name="TODO: identify versions"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\jquery-ui.js">
+   <todo pos="3;154" name="TODO: remove support for widgetEventPrefix"/>
+   <todo pos="3;3531" name="TODO: is this right? should we include anything with css width specified as well"/>
+   <todo pos="1;18185" name="TODO: Switch return back to widget declaration at top of file when this is removed"/>
+   <todo pos="1;18682" name="TODO: Switch return back to widget declaration at top of file when this is removed"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\doc\html\_static\jquery.js">
+   <todo pos="8;787" name="TODO: identify versions"/>
+   <todo pos="7;801" name="TODO: identify versions"/>
+   <todo pos="48;4391" name="TODO: Drop _data, _removeData)"/>
+   <todo pos="2;4459" name="TODO: Now that all calls to _data and _removeData have been replaced"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\ajax.js">
+   <todo pos="7;234" name="TODO: don't send it in the response"/>
+   <todo pos="49;917" name="TODO: Check if sometimes menu is not retrieved from server,"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\drag_drop_import.js">
+   <todo pos="49;310" name="todo: method to find the value below"/>
+   <todo pos="50;312" name="todo: method to find the value below"/>
+   <todo pos="50;314" name="todo: method to find the value below"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\functions.js">
+   <todo pos="3;740" name="TODO: find a way (if possible) to use the parser-analyser"/>
+   <todo pos="3;889" name="TODO: avoid sending a message if user just wants to add a line"/>
+   <todo pos="9;2472" name="Todo: Also split and or blocks in newlines &amp; indentation++"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\gis_data_editor.js">
+   <todo pos="10;237" name="TODO: the gis_data_editor should rather return JSON than JS code to eval"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\makegrid.js">
+   <todo pos="3;2185" name="todo update the original length after a grid edit"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\navigation.js">
+   <todo pos="30;312" name="TODO Why is a loading symbol both hidden, and invisible?"/>
+   <todo pos="7;1250" name="TODO: in fast filter search response there is no #pma_navigation_tree_content, needs to be added in"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\server\databases.js">
+   <todo pos="26;91" name="TODO Remove this section when all browsers support HTML5 &quot;required&quot; property"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\server\privileges.js">
+   <todo pos="5;407" name="TODO: support URL hash history"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\server\status\monitor.js">
+   <todo pos="14;1335" name="TODO: move style to theme CSS"/>
+   <todo pos="7;2087" name="TODO: somehow Functions.sqlPrettyPrint messes up the query, needs be fixed"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\server\status\sorter.js">
+   <todo pos="1;0" name="TODO: tablesorter shouldn't sort already sorted columns"/>
+   <todo pos="9;41" name="Todo: Complete this list (as well as in the regexp a few lines up)"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\table\change.js">
+   <todo pos="36;357" name="todo: put back attributes if corresponding function is deselected"/>
+   <todo pos="35;357" name="@todo: put back attributes if corresponding function is deselected"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\table\chart.js">
+   <todo pos="57;171" name="TODO: a better way using .redraw() ?"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\dist\table\zoom_plot_jqplot.js">
+   <todo pos="1;0" name="TODO: change the axis"/>
+   <todo pos="47;337" name="TODO: text values"/>
+   <todo pos="50;340" name="TODO: axis changing"/>
+   <todo pos="47;353" name="TODO: text values"/>
+   <todo pos="50;356" name="TODO: axis changing"/>
+   <todo pos="9;497" name="TODO: does not seem to work"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\ajax.js">
+   <todo pos="17;215" name="TODO: don't send it in the response"/>
+   <todo pos="13;867" name="TODO: Check if sometimes menu is not retrieved from server,"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\drag_drop_import.js">
+   <todo pos="21;326" name="todo: method to find the value below"/>
+   <todo pos="21;328" name="todo: method to find the value below"/>
+   <todo pos="21;330" name="todo: method to find the value below"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\functions.js">
+   <todo pos="5;694" name="TODO: find a way (if possible) to use the parser-analyser"/>
+   <todo pos="5;834" name="TODO: avoid sending a message if user just wants to add a line"/>
+   <todo pos="13;2363" name="Todo: Also split and or blocks in newlines &amp; indentation++"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\gis_data_editor.js">
+   <todo pos="18;248" name="TODO: the gis_data_editor should rather return JSON than JS code to eval"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\makegrid.js">
+   <todo pos="5;2167" name="todo update the original length after a grid edit"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\navigation.js">
+   <todo pos="9;317" name="TODO Why is a loading symbol both hidden, and invisible?"/>
+   <todo pos="13;1273" name="TODO: in fast filter search response there is no #pma_navigation_tree_content, needs to be added in"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\server\databases.js">
+   <todo pos="9;104" name="TODO Remove this section when all browsers support HTML5 &quot;required&quot; property"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\server\privileges.js">
+   <todo pos="9;440" name="TODO: support URL hash history"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\server\status\monitor.js">
+   <todo pos="13;1223" name="TODO: move style to theme CSS"/>
+   <todo pos="13;2017" name="TODO: somehow Functions.sqlPrettyPrint messes up the query, needs be fixed"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\server\status\sorter.js">
+   <todo pos="1;0" name="TODO: tablesorter shouldn't sort already sorted columns"/>
+   <todo pos="13;39" name="Todo: Complete this list (as well as in the regexp a few lines up)"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\table\change.js">
+   <todo pos="10;348" name="todo: put back attributes if corresponding function is deselected"/>
+   <todo pos="9;348" name="@todo: put back attributes if corresponding function is deselected"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\table\chart.js">
+   <todo pos="5;162" name="TODO: a better way using .redraw() ?"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\src\table\zoom_plot_jqplot.js">
+   <todo pos="1;0" name="TODO: change the axis"/>
+   <todo pos="21;331" name="TODO: text values"/>
+   <todo pos="17;334" name="TODO: axis changing"/>
+   <todo pos="21;347" name="TODO: text values"/>
+   <todo pos="17;350" name="TODO: axis changing"/>
+   <todo pos="13;499" name="TODO: does not seem to work"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\jqplot\jquery.jqplot.js">
+   <todo pos="17;1350" name="TODO: figure out what to do with null values"/>
+   <todo pos="25;5891" name="TODO: figure out some way to do shadows nicely"/>
+   <todo pos="13;11379" name="TODO: remove in 2.0 (#7115)"/>
+   <todo pos="13;11435" name="TODO: remove this check in 2.0, effectMethod will always be true"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\jqplot\plugins\jqplot.categoryAxisRenderer.js">
+   <todo pos="13;266" name="todo: adjust this so more ticks displayed."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\jquery\additional-methods.js">
+   <todo pos="1;1430" name="TODO check if value starts with &lt;, otherwise don't try stripping anything"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\jquery\jquery.validate.js">
+   <todo pos="4;1528" name="TODO find a way to support input types date, datetime, datetime-local, month, time and week"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\sprintf.js">
+   <todo pos="18;195" name="todo: Should handle locales (as per setlocale)"/>
+   <todo pos="17;195" name="@todo: Should handle locales (as per setlocale)"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\tracekit.js">
+   <todo pos="9;943" name="TODO: Clean this function up"/>
+   <todo pos="36;993" name="TODO: Check to see if inline#1 (+parts[2]) points to the script number or column number."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\js\vendor\zxcvbn-ts.js">
+   <todo pos="9;1217" name="TODO add more regex types for example special dates like 09.11"/>
+   <todo pos="9;1866" name="TODO conservatively stick with roman alphabet size."/>
+   <todo pos="25;2014" name="TODO resolve this type issue. This is because it is possible to be async"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\CheckUserPrivileges.php">
+   <todo pos="18;239" name="todo we should not break here, cause GRANT ALL *.*"/>
+   <todo pos="17;239" name="@todo we should not break here, cause GRANT ALL *.*"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Common.php">
+   <todo pos="13;258" name="TODO: Set SQL modes too."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Controllers\Export\ExportController.php">
+   <todo pos="2;92" name="TODO: this should be removed to avoid passing user input to GLOBALS"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Controllers\Table\RelationController.php">
+   <todo pos="10;302" name="todo should be: $server->db($db)->table($table)->primary()"/>
+   <todo pos="9;302" name="@todo should be: $server->db($db)->table($table)->primary()"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Database\Routines.php">
+   <todo pos="17;1227" name="TODO : message need to be modified according to the"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Html\Generator.php">
+   <todo pos="13;891" name="TODO: Show documentation for all statement types."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Import.php">
+   <todo pos="14;1072" name="TODO: Do more checking here to make sure they really are matched"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\ParseAnalyze.php">
+   <todo pos="10;29" name="todo: move to returned results (also in all the calling chain)"/>
+   <todo pos="9;29" name="@todo: move to returned results (also in all the calling chain)"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Plugins\Export\ExportSql.php">
+   <todo pos="17;1569" name="TODO: use parser"/>
+   <todo pos="10;2603" name="todo remove indexes from CREATE TABLE"/>
+   <todo pos="9;2603" name="@todo remove indexes from CREATE TABLE"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Plugins\Import\ImportMediawiki.php">
+   <todo pos="9;340" name="todo check if the name below already exists"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\RecentFavoriteTable.php">
+   <todo pos="13;313" name="TODO Figure out a better way to find the existence of a table"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Server\Status\Data.php">
+   <todo pos="2;23" name="TODO: Use lazy initialisation for some of the properties"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Server\Status\Monitor.php">
+   <todo pos="9;284" name="TODO: check for false"/>
+   <todo pos="9;366" name="TODO: check for false"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Sql.php">
+   <todo pos="13;117" name="TODO: Avoid reparsing the query."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\libraries\classes\Table.php">
+   <todo pos="13;1520" name="TODO: this is dead code, should it be removed"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\code-lts\u2f-php-server\src\U2FServer.php">
+   <todo pos="14;316" name="TODO: wrap-around should be handled somehow.."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Lexer.php">
+   <todo pos="9;209" name="TODO: Sometimes, static::parse* functions make unnecessary calls to"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Statement.php">
+   <todo pos="17;521" name="TODO: ordering of clauses in a SELECT statement with"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Utils\Query.php">
+   <todo pos="9;687" name="TODO: Update the tokens list and the statement."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\tecnickcom\tcpdf\include\tcpdf_static.php">
+   <todo pos="10;472" name="TODO"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\phpMyAdmin\vendor\tecnickcom\tcpdf\tcpdf.php">
+   <todo pos="41;9267" name="TODO: create a SMask"/>
+   <todo pos="40;9267" name="@TODO: create a SMask"/>
+   <todo pos="4;13664" name="TODO: implement this feature"/>
+   <todo pos="3;13664" name="@TODO: implement this feature"/>
+   <todo pos="7;24467" name="TODO: unsupported feature"/>
+   <todo pos="6;24467" name="@TODO: unsupported feature"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\scripts\jquery-1.12.4.js">
+   <todo pos="8;809" name="TODO: identify versions"/>
+   <todo pos="7;823" name="TODO: identify versions"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\scripts\jquery-3.3.1.js">
+   <todo pos="8;752" name="TODO: identify versions"/>
+   <todo pos="7;766" name="TODO: identify versions"/>
+   <todo pos="48;4165" name="TODO: Drop _data, _removeData)"/>
+   <todo pos="2;4233" name="TODO: Now that all calls to _data and _removeData have been replaced"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\baladImlak\scripts\jquery-ui.js">
+   <todo pos="3;154" name="TODO: remove support for widgetEventPrefix"/>
+   <todo pos="3;3531" name="TODO: is this right? should we include anything with css width specified as well"/>
+   <todo pos="1;18185" name="TODO: Switch return back to widget declaration at top of file when this is removed"/>
+   <todo pos="1;18682" name="TODO: Switch return back to widget declaration at top of file when this is removed"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <lasttime value="1681464542"/>
+</project>
